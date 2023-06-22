@@ -31,10 +31,10 @@
   padding: 15px;
 }
 * .counter-container .counter-box main .value {
-  font-size: 70px;
+  font-size: 138px;
   font-weight: 600;
   color: blue;
-  line-height: 3;
+  line-height: 1.5;
 }
 * .counter-container .counter-box button {
   padding: 8px 15px;
