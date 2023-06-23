@@ -9,4 +9,4 @@ My all screen responsive simple counter built from HTML and SCSS
 
 ## Link
 
-[Live link](https://kizitech.github.io/counter/)
+[Live link](https://kizitech.github.io/Simple-Counter/)
